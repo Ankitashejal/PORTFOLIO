@@ -1,1 +1,1 @@
-created a portfolio in using ionic framework.
+created a basic level portfolio using ionic framework.
